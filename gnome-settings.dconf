@@ -1,0 +1,230 @@
+[org/gnome/Console]
+last-window-maximised=false
+last-window-size=(732, 528)
+
+[org/gnome/Totem]
+active-plugins=['mpris', 'open-directory', 'skipto', 'movie-properties', 'save-file', 'recent', 'rotation', 'screenshot', 'variable-rate', 'autoload-subtitles', 'screensaver']
+subtitle-encoding='UTF-8'
+
+[org/gnome/control-center]
+last-panel='wifi'
+window-state=(980, 640, false)
+
+[org/gnome/desktop/app-folders]
+folder-children=['System', 'Utilities', 'YaST', 'Pardus']
+
+[org/gnome/desktop/app-folders/folders/Pardus]
+categories=['X-Pardus-Apps']
+name='X-Pardus-Apps.directory'
+translate=true
+
+[org/gnome/desktop/app-folders/folders/System]
+apps=['nm-connection-editor.desktop', 'org.gnome.baobab.desktop', 'org.gnome.DiskUtility.desktop', 'org.gnome.Logs.desktop', 'org.freedesktop.MalcontentControl.desktop', 'org.gnome.tweaks.desktop', 'org.gnome.SystemMonitor.desktop']
+name='X-GNOME-Shell-System.directory'
+translate=true
+
+[org/gnome/desktop/app-folders/folders/Utilities]
+apps=['org.gnome.Decibels.desktop', 'org.gnome.Connections.desktop', 'org.gnome.Evince.desktop', 'org.gnome.font-viewer.desktop', 'org.gnome.Loupe.desktop']
+name='X-GNOME-Shell-Utilities.directory'
+translate=true
+
+[org/gnome/desktop/app-folders/folders/YaST]
+categories=['X-SuSE-YaST']
+name='suse-yast.directory'
+translate=true
+
+[org/gnome/desktop/background]
+color-shading-type='solid'
+picture-options='zoom'
+picture-uri-dark='file:///home/iamnotmega/.config/background'
+primary-color='#241f31'
+secondary-color='#000000'
+
+[org/gnome/desktop/datetime]
+automatic-timezone=true
+
+[org/gnome/desktop/input-sources]
+sources=[('xkb', 'us')]
+xkb-options=['terminate:ctrl_alt_bksp']
+
+[org/gnome/desktop/interface]
+clock-format='24h'
+color-scheme='prefer-dark'
+enable-hot-corners=false
+gtk-theme='Everforest-Dark'
+icon-theme='Everforest-Dark'
+show-battery-percentage=true
+
+[org/gnome/desktop/notifications]
+application-children=['discord']
+
+[org/gnome/desktop/notifications/application/discord]
+application-id='discord.desktop'
+
+[org/gnome/desktop/screensaver]
+color-shading-type='solid'
+picture-options='zoom'
+primary-color='#241f31'
+secondary-color='#000000'
+
+[org/gnome/desktop/session]
+idle-delay=uint32 0
+
+[org/gnome/desktop/sound]
+event-sounds=false
+theme-name='__custom'
+
+[org/gnome/epiphany]
+ask-for-default=false
+
+[org/gnome/epiphany/state]
+is-maximized=false
+window-size=(1024, 768)
+
+[org/gnome/evolution-data-server]
+migrated=true
+
+[org/gnome/gnome-system-monitor]
+current-tab='processes'
+maximized=false
+show-dependencies=false
+show-whose-processes='user'
+window-height=720
+window-width=800
+
+[org/gnome/gnome-system-monitor/proctree]
+col-26-visible=false
+col-26-width=0
+
+[org/gnome/mutter]
+edge-tiling=false
+experimental-features=['scale-monitor-framebuffer']
+
+[org/gnome/nautilus/icon-view]
+default-zoom-level='small-plus'
+
+[org/gnome/nautilus/preferences]
+default-folder-viewer='icon-view'
+migrated-gtk-settings=true
+search-filter-time-type='last_modified'
+
+[org/gnome/nautilus/window-state]
+initial-size=(890, 550)
+initial-size-file-chooser=(890, 550)
+
+[org/gnome/nm-applet/eap/0e4f676f-2c68-4660-8bb6-260c112a0ac7]
+ignore-ca-cert=false
+ignore-phase2-ca-cert=false
+
+[org/gnome/nm-applet/eap/3c9bc8e4-ae98-47c7-966b-244ed505e6e6]
+ignore-ca-cert=false
+ignore-phase2-ca-cert=false
+
+[org/gnome/nm-applet/eap/fbb2090d-be32-4b5f-9137-a5752d637c7f]
+ignore-ca-cert=false
+ignore-phase2-ca-cert=false
+
+[org/gnome/portal/filechooser/discord]
+last-folder-path='/home/iamnotmega/Pictures/Screenshots'
+
+[org/gnome/portal/filechooser/google-chrome]
+last-folder-path='/home/iamnotmega/Downloads'
+
+[org/gnome/portal/filechooser/org.gnome.Nautilus]
+last-folder-path='/home/iamnotmega/.themes'
+
+[org/gnome/portal/filechooser/org.gnome.Settings]
+last-folder-path='/home/iamnotmega/Downloads'
+
+[org/gnome/settings-daemon/plugins/color]
+night-light-last-coordinates=(59.389279215402922, 24.717921799999999)
+night-light-schedule-automatic=false
+
+[org/gnome/settings-daemon/plugins/media-keys]
+custom-keybindings=['/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/']
+
+[org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0]
+binding='<Control><Alt>t'
+command='gnome-terminal'
+name='terminal'
+
+[org/gnome/settings-daemon/plugins/power]
+ambient-enabled=false
+idle-dim=false
+sleep-inactive-ac-type='nothing'
+sleep-inactive-battery-type='nothing'
+
+[org/gnome/shell]
+enabled-extensions=['dash-to-dock@micxgx.gmail.com', 'user-theme@gnome-shell-extensions.gcampax.github.com', 'appmenu-is-back@fthx', 'blur-my-shell@aunetx', 'top-bar-organizer@julian.gse.jsts.xyz']
+favorite-apps=['google-chrome.desktop', 'org.gnome.Nautilus.desktop', 'discord.desktop', 'steam.desktop', 'org.vinegarhq.Sober.desktop', 'org.vinegarhq.Vinegar.studio.desktop']
+welcome-dialog-last-shown-version='48.4'
+
+[org/gnome/shell/extensions/blur-my-shell]
+pipelines={'pipeline_default': {'name': <'Default'>, 'effects': <[<{'type': <'color'>, 'id': <'effect_64639953659286'>, 'params': <{'color': <(0.7137255072593689, 0.7450980544090271, 0.67450982332229614, 0.090000003576278687)>}>}>, <{'type': <'native_static_gaussian_blur'>, 'id': <'effect_000000000000'>, 'params': <{'radius': <30>, 'brightness': <0.81999999999999995>, 'unscaled_radius': <36>}>}>, <{'type': <'corner'>, 'id': <'effect_50085759065589'>, 'params': <{'radius': <24>}>}>]>}}
+settings-version=2
+
+[org/gnome/shell/extensions/blur-my-shell/coverflow-alt-tab]
+pipeline='pipeline_default'
+
+[org/gnome/shell/extensions/blur-my-shell/dash-to-dock]
+pipeline='pipeline_default'
+
+[org/gnome/shell/extensions/blur-my-shell/lockscreen]
+pipeline='pipeline_default'
+
+[org/gnome/shell/extensions/blur-my-shell/overview]
+pipeline='pipeline_default'
+
+[org/gnome/shell/extensions/blur-my-shell/panel]
+brightness=1.0
+pipeline='pipeline_default'
+sigma=16
+static-blur=false
+
+[org/gnome/shell/extensions/blur-my-shell/screenshot]
+pipeline='pipeline_default'
+
+[org/gnome/shell/extensions/top-bar-organizer]
+center-box-order=['dateMenu']
+left-box-order=['activities', 'appMenu']
+right-box-order=['screenRecording', 'screenSharing', 'dwellClick', 'a11y', 'keyboard', 'quickSettings']
+
+[org/gnome/shell/extensions/user-theme]
+name='Gruvbox-Dark-B-GS'
+
+[org/gnome/shell/world-clocks]
+locations=@av []
+
+[org/gnome/software]
+check-timestamp=int64 1754630407
+first-run=false
+flatpak-purge-timestamp=int64 1754544290
+
+[org/gnome/system/location]
+enabled=true
+
+[org/gnome/tweaks]
+show-extensions-notice=false
+
+[org/gtk/gtk4/settings/color-chooser]
+custom-colors=[(0.7137255072593689, 0.7450980544090271, 0.67450982332229614, 0.090000003576278687), (0.7137255072593689, 0.7450980544090271, 0.67450982332229614, 0.14666666090488434), (0.7137255072593689, 0.7450980544090271, 0.67450982332229614, 0.51999998092651367), (0.7137255072593689, 0.7450980544090271, 0.67450982332229614, 1.0), (0.7137255072593689, 0.7450980544090271, 0.67450982332229614, 0.056666668504476547), (0.7137255072593689, 0.7450980544090271, 0.67450982332229614, 0.0), (0.0, 0.0, 0.0, 0.0)]
+selected-color=(true, 0.7137255072593689, 0.7450980544090271, 0.67450982332229614, 0.090000003576278687)
+
+[org/gtk/gtk4/settings/file-chooser]
+show-hidden=true
+sort-directories-first=false
+
+[org/gtk/settings/file-chooser]
+clock-format='24h'
+date-format='regular'
+location-mode='path-bar'
+show-hidden=false
+show-size-column=true
+show-type-column=true
+sidebar-width=167
+sort-column='name'
+sort-directories-first=false
+sort-order='ascending'
+type-format='category'
+window-position=(335, 42)
+window-size=(1231, 902)
